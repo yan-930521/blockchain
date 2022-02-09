@@ -1,0 +1,15 @@
+{
+  "name": "blockchain",
+  "version": "1.0.0",
+  "description": "![](https://media.discordapp.net/attachments/862884395522588682/939788975537803274/unknown.png) 圖中以兩個分別名為『Sakura』和『Ming』的人， 來實際進行交易的發送。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
